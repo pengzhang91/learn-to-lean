@@ -1,0 +1,8 @@
+/.lake/
+/tmp/
+/.scratch/
+.DS_Store
+*.olean
+*.ilean
+__pycache__/
+*.py[cod]
