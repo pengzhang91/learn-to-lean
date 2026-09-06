@@ -1,5 +1,9 @@
 # Ten math.CO papers formalized in Lean
 
+<p align="center">
+  <img src="assets/lean-comic.png" alt="Learn to Lean in 3 Steps: a comic comparing putting an elephant in a fridge with formalizing a paper in Lean." width="560">
+</p>
+
 This repository contains ten end-to-end formalization developments selected
 from the 1 September 2026 arXiv `math.CO` listing. The only direct Lean
 dependency is [mathlib](https://github.com/leanprover-community/mathlib4),
